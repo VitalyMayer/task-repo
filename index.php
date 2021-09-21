@@ -10,7 +10,7 @@
         
         <nav><div>Меню</div>
             <ul>
-                <li><a href="#">Lesson 1</a></li>
+                <li><a href="lesson_one.php">Lesson 1</a></li>
                 <li><a href="#">Lesson 2</a></li>
             </ul>
         </nav>
