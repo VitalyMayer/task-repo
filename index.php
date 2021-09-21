@@ -12,6 +12,7 @@
             <ul>
                 <li><a href="lesson_one.php">Lesson 1</a></li>
                 <li><a href="lesson_two.php">Lesson 2</a></li>
+                <li><a href="lesson_three.php">Lesson 3</a></li>
             </ul>
         </nav>
         
